@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+    background-color: dodgerblue;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.asside {
+    max-width: 20%;
+    text-align: left;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.aside {
+    padding: 25px;
+    border-radius: 5px;
+    margin: 0 0 20px 0;
+    background-color: skyblue;
+}
+
+.aside-left #h3 {
+    margin-bottom: 10px;
+}
+
+.down {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    background-color: skyblue;
+}
+
+
