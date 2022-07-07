@@ -4,6 +4,8 @@
 
 <img src="./assets/images/Screen Shot 2022-07-06 at 21.55.13.png">
 
+https://ehalimi.github.io/weather-dashboard/
+
 ## It was created using: 
 - HTML
 - CSS
